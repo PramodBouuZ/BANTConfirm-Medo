@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow admin pages
+Disallow: /admin/
+Disallow: /user/dashboard
+Disallow: /login
+Disallow: /register
+
+# Sitemap
+Sitemap: https://bantconfirm.com/sitemap.xml

@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = false
+[user]
+	name = miaoda
+	email = miaoda@baidu.com
+[lfs]
+	repositoryformatversion = 0
+[remote "origin"]
+	url = https://github.com/PramodBouuZ/app-8n1wxpg9ygap.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
